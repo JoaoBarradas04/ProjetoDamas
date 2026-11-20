@@ -1,2 +1,12 @@
 bin/
 .DS_Store
+
+# jogos guardados (exceto o exemplo)
+*.txt
+!jogo.txt
+jogo1
+jogo2
+jogo3
+jogo4
+test
+teste
